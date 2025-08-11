@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Mayurhatte09/Mayurhatte09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
+    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
+  </a> &nbsp;&nbsp;
 
-Here are some ideas to get you started:
+  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
+    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
+    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/juejin.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:guochengli1997@gmail.com" >
+    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
+<p>
