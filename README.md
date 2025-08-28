@@ -15,6 +15,13 @@
 🤝 Open to collaboration & networking  
 
 ---
+## 🛠️ Skills & Tools
+☁️ AWS (EC2, S3, VPC, RDS, Lambda, CloudFormation)
+⚙️ DevOps (Docker, Kubernetes, Jenkins, GitHub Actions)
+💻 Linux, Shell Scripting
+📊 Monitoring (CloudWatch, Prometheus, Grafana)
+
+---
 
 ## 🛠️ Tech Stack & Tools  
 
