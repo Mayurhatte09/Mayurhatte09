@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hii, I'am  Mayur Hatte
+# 👋 Hii, I'am  Mayur Hatte
   
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋+Hi+I'm+Mayur+Hatte;🚀+Aspiring+DevOps+%26+Cloud+Engineer;💻+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Passionate+About+Automation+%26+Cloud;📚+Always+Learning+%26+Improving;🤝+Let’s+Connect+%26+Grow+Together)](https://git.io/typing-svg)
