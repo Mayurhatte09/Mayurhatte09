@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)  
- 
----
+![Profile views](https://komarev.com/ghpvc/?username=Mayurhatte09&label=Profile%20views&color=0e75b6&style=flat)
+
+ ---
 ✨ *“Keep Building, Keep Learning, Keep Growing 🚀”*  
