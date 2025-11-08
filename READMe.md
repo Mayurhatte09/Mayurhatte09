@@ -61,5 +61,17 @@ I’m passionate about **AWS | DevOps | Cloud Computing | Automation**.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)
 
 -----------------------------------------
+<!-- ### ⚙️ DevOps CI/CD Architecture
 
+```mermaid
+flowchart LR
+    A[Developer 💻] -->|Push Code| B[GitHub 🐙]
+    B -->|Trigger Build| C[Jenkins 🧩]
+    C -->|Builds Docker Image| D[Docker 🐳]
+    D -->|Push Image| E[Docker Hub ☁️]
+    E -->|Deploy Image| F[Kubernetes ☸️]
+    F -->|Running Pods| G[Application 🌍]
+
+    style A fill:#9cf,stroke:#333,stroke-width:1px
+    style G fill:#9f9,stroke:#333,stroke-width:1px -->
 
