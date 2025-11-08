@@ -54,3 +54,12 @@ I’m passionate about **AWS | DevOps | Cloud Computing | Automation**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/YOUR-DOCKERHUB)
 
+### 🧠 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)
+
+-----------------------------------------
+
+
