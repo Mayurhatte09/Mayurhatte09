@@ -1,9 +1,12 @@
 <div align="center">
 
 # 👋 Hii, I'am  Mayur Hatte
-  
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋+Hi+I'm+Mayur+Hatte;🚀+Aspiring+DevOps+%26+Cloud+Engineer;💻+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Passionate+About+Automation+%26+Cloud;📚+Always+Learning+%26+Improving;🤝+Let’s+Connect+%26+Grow+Together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mayur+Hatte;🚀+Aspiring+DevOps+%26+Cloud+Engineer;💻+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Passionate+About+Automation+%26+Cloud;📚+Always+Learning+%26+Improving;🤝+Let’s+Connect+%26+Grow+Together!)](https://git.io/typing-svg)
+
+
+
+
 
 ---
 
@@ -37,16 +40,17 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+
+
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Mayurhatte09's GitHub Trophies" />
+  </a>
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=onedark)](https://github.com/Mayurhatte09/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayurhatte09)](https://github.com/Mayurhatte09/github-profile-trophy) -->
-
-
-
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Mayurhatte09&label=Profile%20views&color=0e75b6&style=flat) -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mayurhatte09&color=blueviolet&style=for-the-badge)
 
@@ -54,4 +58,6 @@
 
  ---
 ✨ *“Keep Building, Keep Learning, Keep Growing 🚀”*  
+
+
 
