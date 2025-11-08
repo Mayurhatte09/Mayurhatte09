@@ -47,7 +47,9 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Mayurhatte09&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Mayurhatte09&label=Profile%20views&color=0e75b6&style=flat) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Mayurhatte09&color=blueviolet&style=for-the-badge)
+
 
 
  ---
