@@ -1,0 +1,28 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once every day at midnight UTC
+  workflow_dispatch:     # Allow manual runs too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo content
+        uses: actions/checkout@v4
+
+      - name: Update GitHub stats (forces refresh)
+        run: |
+          echo "Refreshing README badges and stats"
+          curl -s "https://github-readme-stats.vercel.app/api?username=Mayurhatte09" > /dev/null
+          curl -s "https://github-profile-trophy.vercel.app/?username=Mayurhatte09" > /dev/null
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=Mayurhatte09" > /dev/null
+
+      - name: Commit and push if updated
+        run: |
+          git config --global user.name "Mayur Hatte"
+          git config --global user.email "mayurhatte09@example.com"  # change this to your real email
+          git add README.md || true
+          git commit -m "Auto-update README stats [skip ci]" || echo "No changes to commit"
+          git push || echo "No changes to push"
