@@ -17,3 +17,40 @@ I’m passionate about **AWS | DevOps | Cloud Computing | Automation**.
 ## 📫 Connect with Me
 - GitHub: [Mayurhatte09](https://github.com/Mayurhatte09)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+------------------------------------
+
+<h1 align="center">Hi 👋, I'm Mayur Hatte</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS | Docker | Jenkins | Kubernetes</h3>
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=radical)
+
+---
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurhatte09&layout=compact&theme=tokyonight)
+
+---
+
+### ⚙️ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurhatte09&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mayurhatte09&theme=tokyonight)
+
+---
+
+### 👀 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=Mayurhatte09&color=blueviolet)
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/YOUR-DOCKERHUB)
+
