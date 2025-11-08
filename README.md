@@ -44,7 +44,6 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/Mayurhatte09/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Mayurhatte09's GitHub Trophies" />
   </a>
 </p>
