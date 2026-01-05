@@ -42,11 +42,11 @@
 
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Mayurhatte09's GitHub Trophies" />
-  </a>
-</p>
+<!-- ## 🏆 GitHub Trophies --> 
+<!-- <p align="center"> -->
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Mayurhatte09's GitHub Trophies" /> -->
+  <!-- </a> -->
+<!-- </p> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=onedark)](https://github.com/Mayurhatte09/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayurhatte09)](https://github.com/Mayurhatte09/github-profile-trophy) -->
