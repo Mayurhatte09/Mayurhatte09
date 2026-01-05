@@ -51,6 +51,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayurhatte09&theme=onedark)](https://github.com/Mayurhatte09/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayurhatte09)](https://github.com/Mayurhatte09/github-profile-trophy) -->
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Mayurhatte09&label=Profile%20views&color=0e75b6&style=flat) -->
+---
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mayurhatte09&color=blueviolet&style=for-the-badge)
 
 
