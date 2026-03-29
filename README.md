@@ -12,11 +12,11 @@
 ---
 
 ## 🌟 About Me  
-🚀 DevOps Engineer focused on building scalable cloud infrastructure
-☁️ Hands-on with AWS, Kubernetes, and CI/CD pipelines
-🔧 I automate deployments and optimize systems for performance
-📈 Currently building real-world DevOps projects
-🤝 Open to collaboration & networking  
+- 🚀 DevOps Engineer focused on building scalable cloud infrastructure
+- ☁️ Hands-on with AWS, Kubernetes, and CI/CD pipelines
+- 🔧 I automate deployments and optimize systems for performance
+- 📈 Currently building real-world DevOps projects
+- 🤝 Open to collaboration & networking  
 
 ---
 
