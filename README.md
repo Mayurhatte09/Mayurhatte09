@@ -2,7 +2,8 @@
 
 # 👋 Hii, I'am  Mayur Hatte
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mayur+Hatte;🚀+Aspiring+DevOps+%26+Cloud+Engineer;💻+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Passionate+About+Automation+%26+Cloud;📚+Always+Learning+%26+Improving;🤝+Let’s+Connect+%26+Grow+Together!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=700\&lines=🚀+DevOps+%26+Cloud+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Automation+%7C+CI%2FCD+%7C+Infrastructure;📈+Building+Real-World+Projects;🤝+Let’s+Connect+%26+Grow!)](https://git.io/typing-svg)
 
 
 
@@ -11,13 +12,15 @@
 ---
 
 ## 🌟 About Me  
-🎯 Aspiring **DevOps & Cloud Engineer**  
-☁️ Skilled in **AWS, Docker, Kubernetes, Linux**  
-🔧 Interested in **Automation, CI/CD, and Cloud Infrastructure**  
-📚 Always learning and building new projects  
+🚀 DevOps Engineer focused on building scalable cloud infrastructure
+☁️ Hands-on with AWS, Kubernetes, and CI/CD pipelines
+🔧 I automate deployments and optimize systems for performance
+📈 Currently building real-world DevOps projects
 🤝 Open to collaboration & networking  
 
 ---
+
+
 
 ## 🛠️ Tech Stack & Tools  
 
