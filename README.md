@@ -3,9 +3,7 @@
 # 👋 Hi, I'm Mayur Hatte <!-- Typing SVG Header -->
 
 ###  DevOps & Cloud Engineer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=700\&lines=🚀+DevOps+%26+Cloud+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Automation+%7C+CI%2FCD+%7C+Infrastructure;📈+Building+Real-World+Projects;🤝+Let’s+Connect+%26+Grow!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=E0F7FF&center=true&vCenter=true&width=600&lines=🚀+DevOps+%26+Cloud+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Automation+%7C+CI%2FCD+%7C+Infrastructure;📈+Building+Real-World+Projects;🤝+Let’s+Connect+%26+Grow!)](https://git.io/typing-svg)
 
 
 ---
@@ -154,12 +152,15 @@ AWS EKS • Jenkins • Docker • Kubernetes • Prometheus • Grafana
 </div>
 
 ---
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayurhatte09&style=for-the-badge&color=1f2937&label=PROFILE+VIEWS"/>
 </p>
 
 
 ---
+
 
 
 ✨ *“Keep Building, Keep Learning, Keep Growing 🚀”*  
