@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mayur Hatte <!-- Typing SVG Header -->
 
 ###  DevOps & Cloud Engineer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7FFFF5&center=true&vCenter=true&width=600&lines=🚀+DevOps+%26+Cloud+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Automation+%7C+CI%2FCD+%7C+Infrastructure;📈+Building+Real-World+Projects;🤝+Let’s+Connect+%26+Grow!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=02B6FF&center=true&vCenter=true&width=600&lines=🚀+DevOps+%26+Cloud+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;⚡+Automation+%7C+CI%2FCD+%7C+Infrastructure;📈+Building+Real-World+Projects;🤝+Let’s+Connect+%26+Grow!)](https://git.io/typing-svg)
 
 
 ---
