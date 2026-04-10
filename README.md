@@ -132,6 +132,19 @@ AWS EKS • Jenkins • Docker • Kubernetes • Prometheus • Grafana
 <td><a href="https://github.com/Mayurhatte09/myweb">🔗</a></td>
 </tr>
 
+<!--
+<tr>
+<td><b>Captain-Kube (Production DevOps System)</b></td>
+<td>
+Production-grade microservices DevOps system implementing Kubernetes, AWS EKS, CI/CD, GitOps, security, observability, and scaling in a single end-to-end architecture.
+</td>
+<td>
+Docker • Kubernetes • AWS EKS • Jenkins • ArgoCD • Helm • Terraform • Prometheus • Grafana • Loki
+</td>
+<td><a href="https://github.com/Mayurhatte09/Captain-Kube">🔗</a></td>
+</tr>
+-->
+
 </table>
 
 </div>
