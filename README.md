@@ -88,6 +88,16 @@ Configuration Management • Packaging • Monitoring • Observability
 <th>Link</th>
 </tr>
 
+<td><b>Production Grade App Deployment</b></td>
+<td>
+End-to-end CI/CD pipeline deploying a full-stack application with Kubernetes rolling updates, AWS RDS integration, and observability.
+</td>
+<td>
+Jenkins • Docker • Kubernetes • AWS RDS • Prometheus • Grafana
+</td>
+<td><a href="https://github.com/Mayurhatte09/production-grade-app-deployment">🔗</a></td>
+</tr>
+
 <tr>
 <td><b>Cloud Native Chat App</b></td>
 <td>
