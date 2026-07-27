@@ -21,58 +21,29 @@
 
 ## 🛠️ Tech Stack  
 
+## 🛠️ Tech Stack  
+
 <div align="center">
 
 <!-- Core Stack -->
-<a href="https://aws.amazon.com/">
-  <img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazon-aws&logoColor=38bdf8"/>
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38bdf8"/>
-</a>
-<a href="https://kubernetes.io/">
-  <img src="https://img.shields.io/badge/Kubernetes-020617?style=for-the-badge&logo=kubernetes&logoColor=38bdf8"/>
-</a>
-<a href="https://www.terraform.io/">
-  <img src="https://img.shields.io/badge/Terraform-020617?style=for-the-badge&logo=terraform&logoColor=38bdf8"/>
-</a>
-<p>
+[![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazon-aws&logoColor=38bdf8)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38bdf8)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-020617?style=for-the-badge&logo=kubernetes&logoColor=38bdf8)](https://kubernetes.io/) [![Terraform](https://img.shields.io/badge/Terraform-020617?style=for-the-badge&logo=terraform&logoColor=38bdf8)](https://www.terraform.io/)
+
 Cloud Infrastructure • Containerization • Orchestration • Infrastructure as Code
-</p>
+
 <br>
 
 <!-- CI/CD -->
-<a href="https://www.jenkins.io/">
-  <img src="https://img.shields.io/badge/Jenkins-020617?style=for-the-badge&logo=jenkins&logoColor=94a3b8"/>
-</a>
-<a href="https://docs.github.com/en/actions">
-  <img src="https://img.shields.io/badge/GitHub_Actions-020617?style=for-the-badge&logo=githubactions&logoColor=94a3b8"/>
-</a>
-<a href="https://docs.gitlab.com/ee/ci/">
-  <img src="https://img.shields.io/badge/GitLab_CI-020617?style=for-the-badge&logo=gitlab&logoColor=94a3b8"/>
-</a>
-<p>
-Continuous Integration • Automated Pipelines • Deployment Automation
-</p
-<br><br>
+[![Jenkins](https://img.shields.io/badge/Jenkins-020617?style=for-the-badge&logo=jenkins&logoColor=94a3b8)](https://www.jenkins.io/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-020617?style=for-the-badge&logo=githubactions&logoColor=94a3b8)](https://docs.github.com/en/actions) [![GitLab CI](https://img.shields.io/badge/GitLab_CI-020617?style=for-the-badge&logo=gitlab&logoColor=94a3b8)](https://docs.gitlab.com/ee/ci/)
 
+Continuous Integration • Automated Pipelines • Deployment Automation
+
+<br>
 
 <!-- Infrastructure & Monitoring -->
-<a href="https://helm.sh/">
-  <img src="https://img.shields.io/badge/Helm-020617?style=for-the-badge&logo=helm&logoColor=38bdf8"/>
-</a>
-<a href="https://www.ansible.com/">
-  <img src="https://img.shields.io/badge/Ansible-020617?style=for-the-badge&logo=ansible&logoColor=38bdf8"/>
-</a>
-<a href="https://prometheus.io/">
-  <img src="https://img.shields.io/badge/Prometheus-020617?style=for-the-badge&logo=prometheus&logoColor=f97316"/>
-</a>
-<a href="https://grafana.com/">
-  <img src="https://img.shields.io/badge/Grafana-020617?style=for-the-badge&logo=grafana&logoColor=f97316"/>
-</a>
-<p>
+[![Helm](https://img.shields.io/badge/Helm-020617?style=for-the-badge&logo=helm&logoColor=38bdf8)](https://helm.sh/) [![Ansible](https://img.shields.io/badge/Ansible-020617?style=for-the-badge&logo=ansible&logoColor=38bdf8)](https://www.ansible.com/) [![Prometheus](https://img.shields.io/badge/Prometheus-020617?style=for-the-badge&logo=prometheus&logoColor=f97316)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-020617?style=for-the-badge&logo=grafana&logoColor=f97316)](https://grafana.com/)
+
 Configuration Management • Packaging • Monitoring • Observability
-</p>
+
 </div>
 
 ---
