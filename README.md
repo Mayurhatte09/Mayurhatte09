@@ -76,7 +76,7 @@ Modular Jenkins pipeline for automated application build, deployment, version ac
 <td>
 Jenkins • Groovy • Bash • Node.js • Angular • CI/CD
 </td>
-<td><a href="https://github.com/Mayurhatte09/modular-jenkins-pipeline">🔗</a></td>
+<td><a href="https://github.com/Mayurhatte09/Modular-Jenkins-CI-CD-Pipeline">🔗</a></td>
 </tr>
 
 
