@@ -69,6 +69,18 @@ Jenkins • Docker • Kubernetes • AWS RDS • Prometheus • Grafana
 </tr>
 
 <tr>
+<td><b>Modular Jenkins CI/CD Pipeline</b></td>
+<td>
+Modular Jenkins pipeline for automated application build, deployment, version activation, rollback, and DocPanel deployment with reusable Groovy modules and shell scripts.
+</td>
+<td>
+Jenkins • Groovy • Bash • Node.js • Angular • CI/CD
+</td>
+<td><a href="https://github.com/Mayurhatte09/modular-jenkins-pipeline">🔗</a></td>
+</tr>
+
+
+<tr>
 <td><b>Cloud Native Chat App</b></td>
 <td>
 Production-ready real-time chat application with microservices architecture, Kubernetes deployment, and CI/CD automation.
